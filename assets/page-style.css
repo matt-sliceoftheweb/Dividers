@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Tajawal', sans-serif;
+}
+
+.header{
+    text-align: center;
+    width: 100%;
+    top: 0;
+    height: 40px;
+    color: #2A363B ;
+    margin-bottom: 50px;
+}
+
+.box-container{
+    width: 90%;
+    vertical-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box{
+    padding: 25px 0;
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+}
+
+.box:hover{
+    -webkit-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.75);
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.05, 1.05);
+}

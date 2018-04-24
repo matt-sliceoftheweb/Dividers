@@ -1,0 +1,271 @@
+/*
+    Dividers Version 1.0
+    Created by Matthew / Slice Of The Web
+    Date Last Edited - 15/04/2018
+
+    Dividers is free to use & always will be
+    Feel free to modify, share or break in any way
+*/
+
+.div-1{
+    background-color: #ddd;
+    height: 1px;
+}
+
+.div-2{
+    border: 3px double #8c8b8b;
+}
+
+.div-3{
+    border: 1px dashed #8c8b8b;
+}
+
+.div-4{
+    border-top: 1px dotted #8c8b8b;
+}
+
+.div-5{
+    border-top: 3px double #8c8b8b;
+}
+
+.div-6{
+    border-top: 2px dashed #8c8b8b;
+}
+
+.div-7{
+    height: 6px;
+    background: url("img/div-1.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-7-reverse{
+    height: 6px;
+    background: url("img/div-1-re.png") repeat-x 0 0;
+
+}
+
+.div-8{
+    height: 6px;
+    background: url("img/div-2.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-9{
+    height: 10px;
+    border: 0;
+    box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+.div-10{
+    border: 0;
+    height: 1px;
+    background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+}
+
+.div-11{
+    border: 0 double #94938f;
+    border-bottom-width: 3px;
+    position: relative;
+}
+
+.div-11-right{
+    position: absolute;
+    right: 2px;
+    width: 2px;
+    height: 3px;
+    bottom: -3px;
+    background-color: white;
+}
+
+.div-11-left{
+    position: absolute;
+    left: 2px;
+    width: 2px;
+    height: 3px;
+    bottom: -3px;
+    background-color: white;
+}
+
+.div-12{
+    height: 6px;
+    background: url("img/div-3.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-13{
+    height: 6px;
+    background: url("img/div-4.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-14{
+    height: 6px;
+    background: url("img/div-5.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-15{
+    height: 6px;
+    background: url("img/div-6.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-16{
+    height: 6px;
+    background: url("img/div-7.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-17{
+    height: 6px;
+    background: url("img/div-8.png") repeat-x 0 0;
+    border: 0;
+}
+.div-18{
+    height: 6px;
+    background: url("img/div-9.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-19{
+    height: 6px;
+    background: url("img/div-10.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-20{
+    height: 6px;
+    background: url("img/div-11.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-21{
+    height: 6px;
+    background: url("img/div-12.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-22{
+    height: 6px;
+    background: url("img/div-13.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-23{
+    height: 6px;
+    background: url("img/div-14.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-24{
+    height: 6px;
+    background: url("img/div-15.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-25{
+    height: 6px;
+    background: url("img/div-16.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-26{
+    height: 6px;
+    background: url("img/div-17.png") repeat-x 0 0;
+    border: 0;
+}
+.div-27{
+    height: 7px;
+    background: url("img/div-18.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-28{
+    height: 7px;
+    background: url("img/div-19.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-29{
+    height: 10px;
+    background: url("img/div-20.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-30{
+    height: 10px;
+    background: url("img/div-21.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-31{
+    height: 10px;
+    background: url("img/div-22.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-32{
+    height: 10px;
+    background: url("img/div-23.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-33{
+    height: 10px;
+    background: url("img/div-24.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-34{
+    height: 10px;
+    background: url("img/div-25.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-35{
+    height: 10px;
+    background: url("img/div-26.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-36{
+    height: 10px;
+    background: url("img/div-27.png") repeat-x 0 0;
+    border: 0;
+}
+.div-37{
+    height: 10px;
+    background: url("img/div-28.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-38{
+    height: 10px;
+    background: url("img/div-29.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-39{
+    height: 10px;
+    background: url("img/div-30.png") repeat-x 0 0;
+    border: 0;
+}
+
+.div-40 {
+    overflow: visible; /* For IE */
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+}
+
+.div-40:after {
+    content: "§";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: white;
+}
